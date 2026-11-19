@@ -3,7 +3,7 @@
 Welcome to my personal portfolio repository! I created this website as part of my web development internship task to showcase my skills, education, and projects.
 
 ## Live Demo
-Check out the live website here: [View Live Portfolio](https://github.io)
+Check out the live website here: [View Live Portfolio](https://sachinkardam321.github.io/my-portfolio/)
 
 ## Technologies Used
 - *HTML5* – For structuring the web pages
